@@ -221,6 +221,7 @@ def run():
                         rec_course = course_recommender(uiux_course)
                         break
 
+
                 #
                 ## Insert into table
                 ts = time.time()
